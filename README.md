@@ -8,4 +8,4 @@ Build: run
 ```bash
 cmake -B build && cmake --build build && rm -r build
 ```
-Now you have an executable `ldd-repl`.
+Now you have an executable `ldd-repl`
